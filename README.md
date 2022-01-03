@@ -2,11 +2,11 @@
 
 Commandes pour le shell mysql :
 
-"\sql"
+    "\sql"
 
-"\connect root@localhost"
+    "\connect root@localhost"
 
-"CREATE DATABASE testdb DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;"
+    "CREATE DATABASE testdb DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;"
 
 
 Lancer le projet : Clic droit -> Run as -> Maven build ... (avec les points de suspension)
